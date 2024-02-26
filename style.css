@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+    font-size: 5em;
+}
+
+p {
+    color: black;
+    font-size: 5em;
+}
+
+li,
+span {
+    color: yellow;
+    font-size: 1em;
+}
+
+* {
+    margin: 100px;
+}
+
+.highlight {
+    background-color: yellow;
+}
